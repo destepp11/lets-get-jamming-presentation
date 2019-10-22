@@ -31,6 +31,24 @@ Product Owner
 
 ----
 
+## What problem am I trying to solve?
+
+I wanted to build a website for a bluegrass festival I run.
+
+* I'm not a web developer.
+* I'm not a UX designer.
+* I'm not really even a software engineer (anymore).
+
+----
+
+## I am lazy.
+
+----
+
+## And you can be lazy too.
+
+----
+
 ## JAMStack?
 
 "A modern web development architecture based on client-side **JavaScript**, reusable **APIs**, and prebuilt **Markup**" 
