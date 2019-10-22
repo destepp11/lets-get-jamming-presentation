@@ -15,7 +15,7 @@ background = "#FF4081"
 
 ![jamming](images/jamming.jpg)
 
-# Let's Get JAMming
+# Let's Get Some Jam
 
 An Introduction to Static Site Generators
 
