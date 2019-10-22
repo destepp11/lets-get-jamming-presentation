@@ -13,7 +13,7 @@ class = "hotpink"
 background = "#FF4081"
 +++
 
-# 🎸
+![jamming](images/jamming.jpg)
 
 # Let's Get JAMming
 
@@ -352,10 +352,6 @@ Deploy it on your dedicated resources, to AWS/Azure/Google, or a CDN.
 ![Netlify](images/jamstack/netlify.png)
 
 Global CDN, Continuous Deployment, HTTPS Support
-
-----
-
-![netlify-deploy](images/jamstack/netlify-deploy.png)
 
 ----
 
